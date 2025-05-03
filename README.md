@@ -41,10 +41,12 @@ This repository contains a full end-to-end analysis and modeling workflow for th
 data/
 - train.csv # Official Kaggle training set
 - test.csv # Official Kaggle test set
+
 notebooks/
 - titanic_analysis.ipynb
  • EDA, feature engineering, model training
  • Detailed Markdown analysis
+
 - README.md # Project overview and instructions
 
 ## Contributing
